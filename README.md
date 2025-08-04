@@ -52,30 +52,30 @@ brew install clojure/tools/clojure
 
 **Option A: Clone with Git** 🐙
 ```bash
-git clone https://github.com/yourusername/clojure-contract-proposal.git
-cd clojure-contract-proposal
+git clone https://github.com/devopsopportunity/Clojure.git
+cd Clojure
 ```
 
 **Option B: Download manually** 📥
 1. Download the `.clj` file from this repository
-2. Save it as `contract_proposal.clj` on your computer
+2. Save it as `contractual_proposal.clj` on your computer
 3. Open terminal/command prompt in that folder
 
 ### ⚡ Step 3: Run the script
 
 **Simple way (just see the output):**
 ```bash
-clojure -M contract_proposal.clj
+clojure contractual_proposal.clj
 ```
 
 **Save to file:**
 ```bash
-clojure -M contract_proposal.clj > my_contract_proposal.txt
+clojure contractual_proposal.clj > my_contract_proposal.txt
 ```
 
 **For Windows users:**
 ```cmd
-clj -M contract_proposal.clj
+clojure contractual_proposal.clj
 ```
 
 ---
@@ -135,7 +135,7 @@ Want to modify the contract terms? Edit these values in the code:
 → Make sure you're in the correct directory with the `.clj` file.
 
 **Permission denied (Linux/Mac)**  
-→ Try: `chmod +x contract_proposal.clj`
+→ Try: `chmod +x contractual_proposal.clj`
 
 ---
 
